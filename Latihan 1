@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main() 
+{	
+    int jam,menit;
+cout<<"berapa jam?  ";
+cin>>jam;
+menit=jam*60;
+cout<<menit<<" menit "<<endl;
+
+}
